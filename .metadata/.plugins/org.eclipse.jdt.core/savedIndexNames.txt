@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+D:\programação\Programacao\java\bancoDeDadosJDBC\Basic\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+674029731.index
+3413824244.index
+110306240.index
+1057787879.index
+1640253311.index
+2048089110.index
